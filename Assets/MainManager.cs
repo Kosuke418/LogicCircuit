@@ -4,7 +4,13 @@ using UnityEngine;
 
 public class MainManager : MonoBehaviour
 {
+    public int S = 0;
+    public int R = 1;
 
+    int BRANCH (int a)
+    {
+
+    }
 
     int AND (int a,int b)
     {
